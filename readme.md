@@ -9,7 +9,7 @@
 ## Setup and Installation
 
 1. Clone the repository:
-  `git clone https://github.com/yourusername/receipt-processor.git`
+  `git clone https://github.com/nathanzade/receipt-processor.git`
   `cd receipt-processor`
 
 2.	Install dependencies:
